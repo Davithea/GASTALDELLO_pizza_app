@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class App {
-    private static final String BASE_URL = "https://crudcrud.com/api/a12a6d37aff1489295ad0dc49bdf2cef/pizze";
+    private static final String BASE_URL = "https://crudcrud.com/api/317f07e47955485c9fed3e7dc83c1400/pizze";
     private final OkHttpClient client;
     private final Gson gson;
     private final Scanner scanner;
